@@ -1,5 +1,3 @@
-'''Это проект футбола от Гескина Романа'''
-
 import arcade
 import arcade.gui
 import math
